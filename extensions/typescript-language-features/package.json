@@ -17,16 +17,16 @@
   ],
   "dependencies": {
     "jsonc-parser": "^2.1.1",
-    "rimraf": "^2.6.3",
-    "semver": "5.5.1",
-    "vscode-extension-telemetry": "0.1.1",
+    "rimraf": "^3.0.0",
+    "semver": "6.3.0",
+    "vscode-extension-telemetry": "0.1.2",
     "vscode-nls": "^4.0.0"
   },
   "devDependencies": {
-    "@types/node": "^12.11.7",
-    "@types/semver": "^5.5.0",
-    "@types/rimraf": "2.0.2",
-    "vscode": "^1.1.10"
+    "@types/node": "^12.12.8",
+    "@types/semver": "^6.2.0",
+    "@types/rimraf": "2.0.3",
+    "vscode": "1.1.36"
   },
   "scripts": {
     "vscode:prepublish": "node ../../node_modules/gulp/bin/gulp.js --gulpfile ../../build/gulpfile.extensions.js compile-extension:typescript ./tsconfig.json"
