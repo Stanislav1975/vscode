@@ -799,7 +799,7 @@
     "vscode-nls": "^4.1.1"
   },
   "devDependencies": {
-    "@types/node": "^12.11.7",
-    "mocha": "^6.1.4"
+    "@types/node": "^12.12.8",
+    "mocha": "^6.2.2"
   }
 }
