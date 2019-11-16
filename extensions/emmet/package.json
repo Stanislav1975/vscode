@@ -440,16 +440,16 @@
         "deps": "yarn add vscode-emmet-helper"
     },
     "devDependencies": {
-        "@types/node": "^12.11.7",
+        "@types/node": "^12.12.8",
         "mocha-junit-reporter": "^1.17.0",
         "mocha-multi-reporters": "^1.1.7",
-        "vscode": "1.0.1"
+        "vscode": "1.1.36"
     },
     "dependencies": {
         "@emmetio/css-parser": "ramya-rao-a/css-parser#vscode",
-        "@emmetio/html-matcher": "^0.3.3",
-        "@emmetio/math-expression": "^0.1.1",
-        "image-size": "^0.5.2",
+        "@emmetio/html-matcher": "^1.1.2",
+        "@emmetio/math-expression": "^1.0.1",
+        "image-size": "^0.8.3",
         "vscode-emmet-helper": "^1.2.16",
         "vscode-html-languageservice": "^3.0.3"
     }
