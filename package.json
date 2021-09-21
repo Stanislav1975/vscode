@@ -30,7 +30,7 @@
     "web": "node scripts/code-web.js"
   },
   "dependencies": {
-    "applicationinsights": "1.0.8",
+    "applicationinsights": "1.8.10",
     "chokidar": "3.2.3",
     "graceful-fs": "4.1.11",
     "http-proxy-agent": "^2.1.0",
